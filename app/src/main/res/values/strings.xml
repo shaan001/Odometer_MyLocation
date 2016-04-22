@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Location</string>
+    <string name="action_reset">RESET</string>
+    <string name="action_theme">Themes</string>
+    <string name="action_share">Share</string>
+    <string name="action_exit">Exit</string>
+</resources>
